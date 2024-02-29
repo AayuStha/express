@@ -75,6 +75,9 @@
 - images, stylesheets, frontend js setup
     ```bash
     1) create a folder called public
+
     2) create three folders inside it, images, stylesheets, javascripts
+
     3) configure the express static in script.js file
+    
     4) understand the path
